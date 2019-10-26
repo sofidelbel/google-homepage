@@ -18,3 +18,6 @@ Super grateful for all the wonderful people
 working in these resurces.
 
 Sofia
+
+From The Odin Project
+(http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
